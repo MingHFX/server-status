@@ -1,3 +1,3 @@
 # server-status
 
-Server is currently **OFF**
+Server is currently **ON**
