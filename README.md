@@ -1,4 +1,4 @@
 # server-status
 
-<!-- 🟢 Server is currently **ON** -->
-🔴 Server is currently **OFF**
+🟢 Server is currently **ON**
+<!-- 🔴 Server is currently **OFF** -->
